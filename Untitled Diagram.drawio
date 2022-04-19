@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T16:11:06.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="rO8WzTQVjMzQmWcTlD0G" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-19T16:30:40.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="MNSXXkgkrvpcHPu8tRnD" version="17.4.5" type="github" pages="2">
   <diagram id="zI5ggaKjYQIlz0j1a0CY" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GkXexAtL-lwZ5EBFtwrU" name="wrapper classes">
-    <mxGraphModel dx="2272" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,9 @@
             <mxPoint x="360" y="810" as="sourcePoint" />
             <mxPoint x="130" y="810" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8-5iHIEmA53QddnKKJ-5-33" value="Every wrapper class have 2 constructors except &lt;b&gt;character.&lt;br&gt;1. it will accept the data of the same type(primitive)&lt;br&gt;2. it will accept string&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-80" width="490" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
